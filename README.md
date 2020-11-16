@@ -1,2 +1,0 @@
-# IDS
-IDS Project
